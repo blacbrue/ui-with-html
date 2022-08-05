@@ -1,0 +1,44 @@
+* {
+    background: no-repeat center center fixed;
+    background-image: url("../imgs/win10-login-background.jpg");
+    background-size: cover;
+}
+
+.username {
+    font-family: Segoe UI;
+    font-weight: lighter;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 40px;
+}
+
+.avatar {
+    text-align: center;
+}
+
+.avatar-img {
+    border-radius: 50%;
+    width: 175px;
+    margin-top: 350px;
+}
+
+.loading {
+    text-align: center;
+}
+
+.loading-gif {
+    display: inline-block;
+}
+
+.welcome {
+    font-family: Segoe UI light;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -10px;
+    margin-left: 15px;
+}
