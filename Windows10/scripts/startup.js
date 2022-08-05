@@ -3,5 +3,5 @@ window.addEventListener("DOMContentLoaded", () => {
 })
 
 function redirectToLogin() {
-    location.href = "../login.html"
+    location.href = "https://sakamatasimp.github.io/ui-with-html/Windows10/login.html"
 }
