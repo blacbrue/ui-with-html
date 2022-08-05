@@ -3,5 +3,5 @@ window.addEventListener("DOMContentLoaded", () => {
 })
 
 function redirectToLogin() {
-    window.location = `/${location.href.split("/")[location.href.split("/").length - 2]}/login.html`
+    location.href = "../login.html"
 }
