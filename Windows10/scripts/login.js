@@ -3,5 +3,5 @@ window.addEventListener("DOMContentLoaded", () => {
 })
 
 function redirectToDesktop() {
-    location.href = `https://sakamatasimp.github.io/ui-with-html/Windows10/desktop.html`
+    location.href = `https://blacbrue.github.io/ui-with-html/Windows10/desktop.html`
 }
